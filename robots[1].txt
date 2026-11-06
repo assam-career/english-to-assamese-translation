@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://assam-career.github.io/english-to-assamese/sitemap.xml
